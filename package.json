@@ -1,0 +1,12 @@
+{
+  "name": "js-prototype-poc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small JavaScript POC demonstrating prototypes and the prototype chain.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js"
+  },
+  "license": "MIT"
+}
